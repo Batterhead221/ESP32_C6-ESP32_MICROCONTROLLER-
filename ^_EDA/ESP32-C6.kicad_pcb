@@ -3987,18 +3987,7 @@
 			(uuid "741e8551-1f3e-4024-91b3-f02af93fafe5")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_JST.3dshapes/JST_ZH_B4B-ZR_1x04_P1.50mm_Vertical.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "${KIPRJMOD}/LIBRARY/3D/zh-1-5mm-connectors-2-13-pins-1/BxxB-ZR/B4B-ZR.step"
+		(model "/Users/spud/Documents/REPO/ESP32-C6/LIBRARY/3D/zh-1-5mm-connectors-2-13-pins-1/BxxB-ZR/B4B-ZR.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5359,9 +5348,9 @@
 				(xyz -90 -0 -0)
 			)
 		)
-		(model "${KIPRJMOD}/LIBRARY/3D/ESP32-C6-WROOM-1-N8.step"
+		(model "/Users/spud/Documents/REPO/ESP32-C6/LIBRARY/3D/ESP32-C6-WROOM-1-N8.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz 0 0 -0.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -5889,20 +5878,9 @@
 			(uuid "38e2d041-5ed9-4716-8d4a-b6766b95250c")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_JST.3dshapes/JST_ZH_B6B-ZR_1x06_P1.50mm_Vertical.step"
+		(model "/Users/spud/Documents/REPO/ESP32-C6/LIBRARY/3D/zh-1-5mm-connectors-2-13-pins-1/BxxB-ZR/B6B-ZR.step"
 			(offset
 				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "${KIPRJMOD}/LIBRARY/3D/zh-1-5mm-connectors-2-13-pins-1/BxxB-ZR/B6B-ZR.step"
-			(offset
-				(xyz 0 0 -0.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -9849,6 +9827,17 @@
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/LIBRARY/3D/zh-1-5mm-connectors-2-13-pins-1/BxxB-ZR/B10B-ZR.step"
+			(offset
+				(xyz 0 0 -0.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 90)
+			)
+		)
+		(model "/Users/spud/Documents/REPO/ESP32-C6/LIBRARY/3D/zh-1-5mm-connectors-2-13-pins-1/BxxB-ZR/B10B-ZR.step"
 			(offset
 				(xyz 0 0 -0.5)
 			)
